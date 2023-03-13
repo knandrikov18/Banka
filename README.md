@@ -1,2 +1,2 @@
 # Banka
-[UML class diagram (4).pdf](https://github.com/knandrikov18/Banka/files/10957683/UML.class.diagram.4.pdf)
+[UML class diagram (5).pdf](https://github.com/knandrikov18/Banka/files/10957710/UML.class.diagram.5.pdf)
